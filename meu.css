@@ -1,0 +1,10 @@
+.centralizado {
+	text-align: center;
+}
+
+#pagina {
+    background: rgb(150, 146, 146);
+    color: rgb(39, 34, 34);
+    padding: 30px;
+    margin: 50px;
+}
