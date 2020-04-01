@@ -16,10 +16,12 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
                 <a class="nav-item nav-link active" href="index.html">Inicial <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link active" href="visao.html">Visão geral <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active" href="visao.html">Visão geral <span
+                        class="sr-only">(current)</span></a>
                 <a class="nav-item nav-link active" href="medidas.html">Medidas de prevenção <span
                         class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link active" href="informacao.html">Informações <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active" href="informacao.html">Informações <span
+                        class="sr-only">(current)</span></a>
             </div>
         </div>
     </nav>
@@ -28,10 +30,11 @@
 
         <canvas id="myChart" width="100px" height="40px"></canvas>
 
-        
-        <script src = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
         <script>
             var ctx = document.getElementById('myChart');
+
             var myChart = new Chart(ctx, {
                 type: 'line',
                 data: {
