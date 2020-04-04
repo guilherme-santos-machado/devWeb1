@@ -36,6 +36,12 @@ div.embed-responsive {
 }
 
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 767px) {
+
+    Classedasuaimagem{
+    Width: 100%;
+    Height: auto;
+    
+    } 
     
 }
