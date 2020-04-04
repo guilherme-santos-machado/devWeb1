@@ -25,3 +25,12 @@
 h1{
     text-align: center;
 }
+
+.tagmid{
+    text-align: center;
+}
+
+div.embed-responsive {
+    min-width: 100vw;
+    min-height: 80vh;
+}

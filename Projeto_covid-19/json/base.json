@@ -1,9 +1,9 @@
 [
   {
-    "Province/State": "",
-    "Country/Region": "Afghanistan",
-    "Lat": 33,
-    "Long": 65,
+    "province_state": "",
+    "country_region": "Afghanistan",
+    "lat": 33,
+    "long": 65,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -74,10 +74,10 @@
     "3/29/20": 120
   },
   {
-    "Province/State": "",
-    "Country/Region": "Albania",
-    "Lat": 41.1533,
-    "Long": 20.1683,
+    "province_state": "",
+    "country_region": "Albania",
+    "lat": 41.1533,
+    "long": 20.1683,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -148,10 +148,10 @@
     "3/29/20": 212
   },
   {
-    "Province/State": "",
-    "Country/Region": "Algeria",
-    "Lat": 28.0339,
-    "Long": 1.6596,
+    "province_state": "",
+    "country_region": "Algeria",
+    "lat": 28.0339,
+    "long": 1.6596,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -222,10 +222,10 @@
     "3/29/20": 511
   },
   {
-    "Province/State": "",
-    "Country/Region": "Andorra",
-    "Lat": 42.5063,
-    "Long": 1.5218,
+    "province_state": "",
+    "country_region": "Andorra",
+    "lat": 42.5063,
+    "long": 1.5218,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -296,10 +296,10 @@
     "3/29/20": 334
   },
   {
-    "Province/State": "",
-    "Country/Region": "Angola",
-    "Lat": -11.2027,
-    "Long": 17.8739,
+    "province_state": "",
+    "country_region": "Angola",
+    "lat": -11.2027,
+    "long": 17.8739,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -370,10 +370,10 @@
     "3/29/20": 7
   },
   {
-    "Province/State": "",
-    "Country/Region": "Antigua and Barbuda",
-    "Lat": 17.0608,
-    "Long": -61.7964,
+    "province_state": "",
+    "country_region": "Antigua and Barbuda",
+    "lat": 17.0608,
+    "long": -61.7964,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -444,10 +444,10 @@
     "3/29/20": 7
   },
   {
-    "Province/State": "",
-    "Country/Region": "Argentina",
-    "Lat": -38.4161,
-    "Long": -63.6167,
+    "province_state": "",
+    "country_region": "Argentina",
+    "lat": -38.4161,
+    "long": -63.6167,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -518,10 +518,10 @@
     "3/29/20": 745
   },
   {
-    "Province/State": "",
-    "Country/Region": "Armenia",
-    "Lat": 40.0691,
-    "Long": 45.0382,
+    "province_state": "",
+    "country_region": "Armenia",
+    "lat": 40.0691,
+    "long": 45.0382,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -592,10 +592,10 @@
     "3/29/20": 424
   },
   {
-    "Province/State": "Australian Capital Territory",
-    "Country/Region": "Australia",
-    "Lat": -35.4735,
-    "Long": 149.0124,
+    "province_state": "Australian Capital Territory",
+    "country_region": "Australia",
+    "lat": -35.4735,
+    "long": 149.0124,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -666,10 +666,10 @@
     "3/29/20": 77
   },
   {
-    "Province/State": "New South Wales",
-    "Country/Region": "Australia",
-    "Lat": -33.8688,
-    "Long": 151.2093,
+    "province_state": "New South Wales",
+    "country_region": "Australia",
+    "lat": -33.8688,
+    "long": 151.2093,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -740,10 +740,10 @@
     "3/29/20": 1791
   },
   {
-    "Province/State": "Northern Territory",
-    "Country/Region": "Australia",
-    "Lat": -12.4634,
-    "Long": 130.8456,
+    "province_state": "Northern Territory",
+    "country_region": "Australia",
+    "lat": -12.4634,
+    "long": 130.8456,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -814,10 +814,10 @@
     "3/29/20": 15
   },
   {
-    "Province/State": "Queensland",
-    "Country/Region": "Australia",
-    "Lat": -28.0167,
-    "Long": 153.4,
+    "province_state": "Queensland",
+    "country_region": "Australia",
+    "lat": -28.0167,
+    "long": 153.4,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -888,10 +888,10 @@
     "3/29/20": 656
   },
   {
-    "Province/State": "South Australia",
-    "Country/Region": "Australia",
-    "Lat": -34.9285,
-    "Long": 138.6007,
+    "province_state": "South Australia",
+    "country_region": "Australia",
+    "lat": -34.9285,
+    "long": 138.6007,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -962,10 +962,10 @@
     "3/29/20": 299
   },
   {
-    "Province/State": "Tasmania",
-    "Country/Region": "Australia",
-    "Lat": -41.4545,
-    "Long": 145.9707,
+    "province_state": "Tasmania",
+    "country_region": "Australia",
+    "lat": -41.4545,
+    "long": 145.9707,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1036,10 +1036,10 @@
     "3/29/20": 66
   },
   {
-    "Province/State": "Victoria",
-    "Country/Region": "Australia",
-    "Lat": -37.8136,
-    "Long": 144.9631,
+    "province_state": "Victoria",
+    "country_region": "Australia",
+    "lat": -37.8136,
+    "long": 144.9631,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1110,10 +1110,10 @@
     "3/29/20": 769
   },
   {
-    "Province/State": "Western Australia",
-    "Country/Region": "Australia",
-    "Lat": -31.9505,
-    "Long": 115.8605,
+    "province_state": "Western Australia",
+    "country_region": "Australia",
+    "lat": -31.9505,
+    "long": 115.8605,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1184,10 +1184,10 @@
     "3/29/20": 311
   },
   {
-    "Province/State": "",
-    "Country/Region": "Austria",
-    "Lat": 47.5162,
-    "Long": 14.5501,
+    "province_state": "",
+    "country_region": "Austria",
+    "lat": 47.5162,
+    "long": 14.5501,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1258,10 +1258,10 @@
     "3/29/20": 8788
   },
   {
-    "Province/State": "",
-    "Country/Region": "Azerbaijan",
-    "Lat": 40.1431,
-    "Long": 47.5769,
+    "province_state": "",
+    "country_region": "Azerbaijan",
+    "lat": 40.1431,
+    "long": 47.5769,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1332,10 +1332,10 @@
     "3/29/20": 209
   },
   {
-    "Province/State": "",
-    "Country/Region": "Bahamas",
-    "Lat": 25.0343,
-    "Long": -77.3963,
+    "province_state": "",
+    "country_region": "Bahamas",
+    "lat": 25.0343,
+    "long": -77.3963,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1406,10 +1406,10 @@
     "3/29/20": 11
   },
   {
-    "Province/State": "",
-    "Country/Region": "Bahrain",
-    "Lat": 26.0275,
-    "Long": 50.55,
+    "province_state": "",
+    "country_region": "Bahrain",
+    "lat": 26.0275,
+    "long": 50.55,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1480,10 +1480,10 @@
     "3/29/20": 499
   },
   {
-    "Province/State": "",
-    "Country/Region": "Bangladesh",
-    "Lat": 23.685,
-    "Long": 90.3563,
+    "province_state": "",
+    "country_region": "Bangladesh",
+    "lat": 23.685,
+    "long": 90.3563,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1554,10 +1554,10 @@
     "3/29/20": 48
   },
   {
-    "Province/State": "",
-    "Country/Region": "Barbados",
-    "Lat": 13.1939,
-    "Long": -59.5432,
+    "province_state": "",
+    "country_region": "Barbados",
+    "lat": 13.1939,
+    "long": -59.5432,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1628,10 +1628,10 @@
     "3/29/20": 33
   },
   {
-    "Province/State": "",
-    "Country/Region": "Belarus",
-    "Lat": 53.7098,
-    "Long": 27.9534,
+    "province_state": "",
+    "country_region": "Belarus",
+    "lat": 53.7098,
+    "long": 27.9534,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1702,10 +1702,10 @@
     "3/29/20": 94
   },
   {
-    "Province/State": "",
-    "Country/Region": "Belgium",
-    "Lat": 50.8333,
-    "Long": 4,
+    "province_state": "",
+    "country_region": "Belgium",
+    "lat": 50.8333,
+    "long": 4,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1776,10 +1776,10 @@
     "3/29/20": 10836
   },
   {
-    "Province/State": "",
-    "Country/Region": "Benin",
-    "Lat": 9.3077,
-    "Long": 2.3158,
+    "province_state": "",
+    "country_region": "Benin",
+    "lat": 9.3077,
+    "long": 2.3158,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1850,10 +1850,10 @@
     "3/29/20": 6
   },
   {
-    "Province/State": "",
-    "Country/Region": "Bhutan",
-    "Lat": 27.5142,
-    "Long": 90.4336,
+    "province_state": "",
+    "country_region": "Bhutan",
+    "lat": 27.5142,
+    "long": 90.4336,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1924,10 +1924,10 @@
     "3/29/20": 4
   },
   {
-    "Province/State": "",
-    "Country/Region": "Bolivia",
-    "Lat": -16.2902,
-    "Long": -63.5887,
+    "province_state": "",
+    "country_region": "Bolivia",
+    "lat": -16.2902,
+    "long": -63.5887,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -1998,10 +1998,10 @@
     "3/29/20": 81
   },
   {
-    "Province/State": "",
-    "Country/Region": "Bosnia and Herzegovina",
-    "Lat": 43.9159,
-    "Long": 17.6791,
+    "province_state": "",
+    "country_region": "Bosnia and Herzegovina",
+    "lat": 43.9159,
+    "long": 17.6791,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2072,10 +2072,10 @@
     "3/29/20": 323
   },
   {
-    "Province/State": "",
-    "Country/Region": "Brazil",
-    "Lat": -14.235,
-    "Long": -51.9253,
+    "province_state": "",
+    "country_region": "Brazil",
+    "lat": -14.235,
+    "long": -51.9253,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2146,10 +2146,10 @@
     "3/29/20": 4256
   },
   {
-    "Province/State": "",
-    "Country/Region": "Brunei",
-    "Lat": 4.5353,
-    "Long": 114.7277,
+    "province_state": "",
+    "country_region": "Brunei",
+    "lat": 4.5353,
+    "long": 114.7277,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2220,10 +2220,10 @@
     "3/29/20": 126
   },
   {
-    "Province/State": "",
-    "Country/Region": "Bulgaria",
-    "Lat": 42.7339,
-    "Long": 25.4858,
+    "province_state": "",
+    "country_region": "Bulgaria",
+    "lat": 42.7339,
+    "long": 25.4858,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2294,10 +2294,10 @@
     "3/29/20": 346
   },
   {
-    "Province/State": "",
-    "Country/Region": "Burkina Faso",
-    "Lat": 12.2383,
-    "Long": -1.5616,
+    "province_state": "",
+    "country_region": "Burkina Faso",
+    "lat": 12.2383,
+    "long": -1.5616,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2368,10 +2368,10 @@
     "3/29/20": 222
   },
   {
-    "Province/State": "",
-    "Country/Region": "Cabo Verde",
-    "Lat": 16.5388,
-    "Long": -23.0418,
+    "province_state": "",
+    "country_region": "Cabo Verde",
+    "lat": 16.5388,
+    "long": -23.0418,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2442,10 +2442,10 @@
     "3/29/20": 6
   },
   {
-    "Province/State": "",
-    "Country/Region": "Cambodia",
-    "Lat": 11.55,
-    "Long": 104.9167,
+    "province_state": "",
+    "country_region": "Cambodia",
+    "lat": 11.55,
+    "long": 104.9167,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2516,10 +2516,10 @@
     "3/29/20": 103
   },
   {
-    "Province/State": "",
-    "Country/Region": "Cameroon",
-    "Lat": 3.848,
-    "Long": 11.5021,
+    "province_state": "",
+    "country_region": "Cameroon",
+    "lat": 3.848,
+    "long": 11.5021,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2590,10 +2590,10 @@
     "3/29/20": 139
   },
   {
-    "Province/State": "Alberta",
-    "Country/Region": "Canada",
-    "Lat": 53.9333,
-    "Long": -116.5765,
+    "province_state": "Alberta",
+    "country_region": "Canada",
+    "lat": 53.9333,
+    "long": -116.5765,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2664,10 +2664,10 @@
     "3/29/20": 621
   },
   {
-    "Province/State": "British Columbia",
-    "Country/Region": "Canada",
-    "Lat": 49.2827,
-    "Long": -123.1207,
+    "province_state": "British Columbia",
+    "country_region": "Canada",
+    "lat": 49.2827,
+    "long": -123.1207,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2738,10 +2738,10 @@
     "3/29/20": 884
   },
   {
-    "Province/State": "Grand Princess",
-    "Country/Region": "Canada",
-    "Lat": 37.6489,
-    "Long": -122.6655,
+    "province_state": "Grand Princess",
+    "country_region": "Canada",
+    "lat": 37.6489,
+    "long": -122.6655,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2812,10 +2812,10 @@
     "3/29/20": 13
   },
   {
-    "Province/State": "Manitoba",
-    "Country/Region": "Canada",
-    "Lat": 53.7609,
-    "Long": -98.8139,
+    "province_state": "Manitoba",
+    "country_region": "Canada",
+    "lat": 53.7609,
+    "long": -98.8139,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2886,10 +2886,10 @@
     "3/29/20": 72
   },
   {
-    "Province/State": "New Brunswick",
-    "Country/Region": "Canada",
-    "Lat": 46.5653,
-    "Long": -66.4619,
+    "province_state": "New Brunswick",
+    "country_region": "Canada",
+    "lat": 46.5653,
+    "long": -66.4619,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -2960,10 +2960,10 @@
     "3/29/20": 66
   },
   {
-    "Province/State": "Newfoundland and Labrador",
-    "Country/Region": "Canada",
-    "Lat": 53.1355,
-    "Long": -57.6604,
+    "province_state": "Newfoundland and Labrador",
+    "country_region": "Canada",
+    "lat": 53.1355,
+    "long": -57.6604,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3034,10 +3034,10 @@
     "3/29/20": 135
   },
   {
-    "Province/State": "Nova Scotia",
-    "Country/Region": "Canada",
-    "Lat": 44.682,
-    "Long": -63.7443,
+    "province_state": "Nova Scotia",
+    "country_region": "Canada",
+    "lat": 44.682,
+    "long": -63.7443,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3108,10 +3108,10 @@
     "3/29/20": 122
   },
   {
-    "Province/State": "Ontario",
-    "Country/Region": "Canada",
-    "Lat": 51.2538,
-    "Long": -85.3232,
+    "province_state": "Ontario",
+    "country_region": "Canada",
+    "lat": 51.2538,
+    "long": -85.3232,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3182,10 +3182,10 @@
     "3/29/20": 1355
   },
   {
-    "Province/State": "Prince Edward Island",
-    "Country/Region": "Canada",
-    "Lat": 46.5107,
-    "Long": -63.4168,
+    "province_state": "Prince Edward Island",
+    "country_region": "Canada",
+    "lat": 46.5107,
+    "long": -63.4168,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3256,10 +3256,10 @@
     "3/29/20": 11
   },
   {
-    "Province/State": "Quebec",
-    "Country/Region": "Canada",
-    "Lat": 52.9399,
-    "Long": -73.5491,
+    "province_state": "Quebec",
+    "country_region": "Canada",
+    "lat": 52.9399,
+    "long": -73.5491,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3330,10 +3330,10 @@
     "3/29/20": 2840
   },
   {
-    "Province/State": "Saskatchewan",
-    "Country/Region": "Canada",
-    "Lat": 52.9399,
-    "Long": -106.4509,
+    "province_state": "Saskatchewan",
+    "country_region": "Canada",
+    "lat": 52.9399,
+    "long": -106.4509,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3404,10 +3404,10 @@
     "3/29/20": 156
   },
   {
-    "Province/State": "",
-    "Country/Region": "Central African Republic",
-    "Lat": 6.6111,
-    "Long": 20.9394,
+    "province_state": "",
+    "country_region": "Central African Republic",
+    "lat": 6.6111,
+    "long": 20.9394,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3478,10 +3478,10 @@
     "3/29/20": 3
   },
   {
-    "Province/State": "",
-    "Country/Region": "Chad",
-    "Lat": 15.4542,
-    "Long": 18.7322,
+    "province_state": "",
+    "country_region": "Chad",
+    "lat": 15.4542,
+    "long": 18.7322,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3552,10 +3552,10 @@
     "3/29/20": 3
   },
   {
-    "Province/State": "",
-    "Country/Region": "Chile",
-    "Lat": -35.6751,
-    "Long": -71.543,
+    "province_state": "",
+    "country_region": "Chile",
+    "lat": -35.6751,
+    "long": -71.543,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -3626,10 +3626,10 @@
     "3/29/20": 2139
   },
   {
-    "Province/State": "Anhui",
-    "Country/Region": "China",
-    "Lat": 31.8257,
-    "Long": 117.2264,
+    "province_state": "Anhui",
+    "country_region": "China",
+    "lat": 31.8257,
+    "long": 117.2264,
     "1/22/20": 1,
     "1/23/20": 9,
     "1/24/20": 15,
@@ -3700,10 +3700,10 @@
     "3/29/20": 990
   },
   {
-    "Province/State": "Beijing",
-    "Country/Region": "China",
-    "Lat": 40.1824,
-    "Long": 116.4142,
+    "province_state": "Beijing",
+    "country_region": "China",
+    "lat": 40.1824,
+    "long": 116.4142,
     "1/22/20": 14,
     "1/23/20": 22,
     "1/24/20": 36,
@@ -3774,10 +3774,10 @@
     "3/29/20": 577
   },
   {
-    "Province/State": "Chongqing",
-    "Country/Region": "China",
-    "Lat": 30.0572,
-    "Long": 107.874,
+    "province_state": "Chongqing",
+    "country_region": "China",
+    "lat": 30.0572,
+    "long": 107.874,
     "1/22/20": 6,
     "1/23/20": 9,
     "1/24/20": 27,
@@ -3848,10 +3848,10 @@
     "3/29/20": 579
   },
   {
-    "Province/State": "Fujian",
-    "Country/Region": "China",
-    "Lat": 26.0789,
-    "Long": 117.9874,
+    "province_state": "Fujian",
+    "country_region": "China",
+    "lat": 26.0789,
+    "long": 117.9874,
     "1/22/20": 1,
     "1/23/20": 5,
     "1/24/20": 10,
@@ -3922,10 +3922,10 @@
     "3/29/20": 338
   },
   {
-    "Province/State": "Gansu",
-    "Country/Region": "China",
-    "Lat": 37.8099,
-    "Long": 101.0583,
+    "province_state": "Gansu",
+    "country_region": "China",
+    "lat": 37.8099,
+    "long": 101.0583,
     "1/22/20": 0,
     "1/23/20": 2,
     "1/24/20": 2,
@@ -3996,10 +3996,10 @@
     "3/29/20": 138
   },
   {
-    "Province/State": "Guangdong",
-    "Country/Region": "China",
-    "Lat": 23.3417,
-    "Long": 113.4244,
+    "province_state": "Guangdong",
+    "country_region": "China",
+    "lat": 23.3417,
+    "long": 113.4244,
     "1/22/20": 26,
     "1/23/20": 32,
     "1/24/20": 53,
@@ -4070,10 +4070,10 @@
     "3/29/20": 1475
   },
   {
-    "Province/State": "Guangxi",
-    "Country/Region": "China",
-    "Lat": 23.8298,
-    "Long": 108.7881,
+    "province_state": "Guangxi",
+    "country_region": "China",
+    "lat": 23.8298,
+    "long": 108.7881,
     "1/22/20": 2,
     "1/23/20": 5,
     "1/24/20": 23,
@@ -4144,10 +4144,10 @@
     "3/29/20": 254
   },
   {
-    "Province/State": "Guizhou",
-    "Country/Region": "China",
-    "Lat": 26.8154,
-    "Long": 106.8748,
+    "province_state": "Guizhou",
+    "country_region": "China",
+    "lat": 26.8154,
+    "long": 106.8748,
     "1/22/20": 1,
     "1/23/20": 3,
     "1/24/20": 3,
@@ -4218,10 +4218,10 @@
     "3/29/20": 146
   },
   {
-    "Province/State": "Hainan",
-    "Country/Region": "China",
-    "Lat": 19.1959,
-    "Long": 109.7453,
+    "province_state": "Hainan",
+    "country_region": "China",
+    "lat": 19.1959,
+    "long": 109.7453,
     "1/22/20": 4,
     "1/23/20": 5,
     "1/24/20": 8,
@@ -4292,10 +4292,10 @@
     "3/29/20": 168
   },
   {
-    "Province/State": "Hebei",
-    "Country/Region": "China",
-    "Lat": 39.549,
-    "Long": 116.1306,
+    "province_state": "Hebei",
+    "country_region": "China",
+    "lat": 39.549,
+    "long": 116.1306,
     "1/22/20": 1,
     "1/23/20": 1,
     "1/24/20": 2,
@@ -4366,10 +4366,10 @@
     "3/29/20": 319
   },
   {
-    "Province/State": "Heilongjiang",
-    "Country/Region": "China",
-    "Lat": 47.862,
-    "Long": 127.7615,
+    "province_state": "Heilongjiang",
+    "country_region": "China",
+    "lat": 47.862,
+    "long": 127.7615,
     "1/22/20": 0,
     "1/23/20": 2,
     "1/24/20": 4,
@@ -4440,10 +4440,10 @@
     "3/29/20": 484
   },
   {
-    "Province/State": "Henan",
-    "Country/Region": "China",
-    "Lat": 33.882,
-    "Long": 113.614,
+    "province_state": "Henan",
+    "country_region": "China",
+    "lat": 33.882,
+    "long": 113.614,
     "1/22/20": 5,
     "1/23/20": 5,
     "1/24/20": 9,
@@ -4514,10 +4514,10 @@
     "3/29/20": 1276
   },
   {
-    "Province/State": "Hong Kong",
-    "Country/Region": "China",
-    "Lat": 22.3,
-    "Long": 114.2,
+    "province_state": "Hong Kong",
+    "country_region": "China",
+    "lat": 22.3,
+    "long": 114.2,
     "1/22/20": 0,
     "1/23/20": 2,
     "1/24/20": 2,
@@ -4588,10 +4588,10 @@
     "3/29/20": 641
   },
   {
-    "Province/State": "Hubei",
-    "Country/Region": "China",
-    "Lat": 30.9756,
-    "Long": 112.2707,
+    "province_state": "Hubei",
+    "country_region": "China",
+    "lat": 30.9756,
+    "long": 112.2707,
     "1/22/20": 444,
     "1/23/20": 444,
     "1/24/20": 549,
@@ -4662,10 +4662,10 @@
     "3/29/20": 67801
   },
   {
-    "Province/State": "Hunan",
-    "Country/Region": "China",
-    "Lat": 27.6104,
-    "Long": 111.7088,
+    "province_state": "Hunan",
+    "country_region": "China",
+    "lat": 27.6104,
+    "long": 111.7088,
     "1/22/20": 4,
     "1/23/20": 9,
     "1/24/20": 24,
@@ -4736,10 +4736,10 @@
     "3/29/20": 1018
   },
   {
-    "Province/State": "Inner Mongolia",
-    "Country/Region": "China",
-    "Lat": 44.0935,
-    "Long": 113.9448,
+    "province_state": "Inner Mongolia",
+    "country_region": "China",
+    "lat": 44.0935,
+    "long": 113.9448,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 1,
@@ -4810,10 +4810,10 @@
     "3/29/20": 95
   },
   {
-    "Province/State": "Jiangsu",
-    "Country/Region": "China",
-    "Lat": 32.9711,
-    "Long": 119.455,
+    "province_state": "Jiangsu",
+    "country_region": "China",
+    "lat": 32.9711,
+    "long": 119.455,
     "1/22/20": 1,
     "1/23/20": 5,
     "1/24/20": 9,
@@ -4884,10 +4884,10 @@
     "3/29/20": 644
   },
   {
-    "Province/State": "Jiangxi",
-    "Country/Region": "China",
-    "Lat": 27.614,
-    "Long": 115.7221,
+    "province_state": "Jiangxi",
+    "country_region": "China",
+    "lat": 27.614,
+    "long": 115.7221,
     "1/22/20": 2,
     "1/23/20": 7,
     "1/24/20": 18,
@@ -4958,10 +4958,10 @@
     "3/29/20": 937
   },
   {
-    "Province/State": "Jilin",
-    "Country/Region": "China",
-    "Lat": 43.6661,
-    "Long": 126.1923,
+    "province_state": "Jilin",
+    "country_region": "China",
+    "lat": 43.6661,
+    "long": 126.1923,
     "1/22/20": 0,
     "1/23/20": 1,
     "1/24/20": 3,
@@ -5032,10 +5032,10 @@
     "3/29/20": 98
   },
   {
-    "Province/State": "Liaoning",
-    "Country/Region": "China",
-    "Lat": 41.2956,
-    "Long": 122.6085,
+    "province_state": "Liaoning",
+    "country_region": "China",
+    "lat": 41.2956,
+    "long": 122.6085,
     "1/22/20": 2,
     "1/23/20": 3,
     "1/24/20": 4,
@@ -5106,10 +5106,10 @@
     "3/29/20": 134
   },
   {
-    "Province/State": "Macau",
-    "Country/Region": "China",
-    "Lat": 22.1667,
-    "Long": 113.55,
+    "province_state": "Macau",
+    "country_region": "China",
+    "lat": 22.1667,
+    "long": 113.55,
     "1/22/20": 1,
     "1/23/20": 2,
     "1/24/20": 2,
@@ -5180,10 +5180,10 @@
     "3/29/20": 37
   },
   {
-    "Province/State": "Ningxia",
-    "Country/Region": "China",
-    "Lat": 37.2692,
-    "Long": 106.1655,
+    "province_state": "Ningxia",
+    "country_region": "China",
+    "lat": 37.2692,
+    "long": 106.1655,
     "1/22/20": 1,
     "1/23/20": 1,
     "1/24/20": 2,
@@ -5254,10 +5254,10 @@
     "3/29/20": 75
   },
   {
-    "Province/State": "Qinghai",
-    "Country/Region": "China",
-    "Lat": 35.7452,
-    "Long": 95.9956,
+    "province_state": "Qinghai",
+    "country_region": "China",
+    "lat": 35.7452,
+    "long": 95.9956,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -5328,10 +5328,10 @@
     "3/29/20": 18
   },
   {
-    "Province/State": "Shaanxi",
-    "Country/Region": "China",
-    "Lat": 35.1917,
-    "Long": 108.8701,
+    "province_state": "Shaanxi",
+    "country_region": "China",
+    "lat": 35.1917,
+    "long": 108.8701,
     "1/22/20": 0,
     "1/23/20": 3,
     "1/24/20": 5,
@@ -5402,10 +5402,10 @@
     "3/29/20": 253
   },
   {
-    "Province/State": "Shandong",
-    "Country/Region": "China",
-    "Lat": 36.3427,
-    "Long": 118.1498,
+    "province_state": "Shandong",
+    "country_region": "China",
+    "lat": 36.3427,
+    "long": 118.1498,
     "1/22/20": 2,
     "1/23/20": 6,
     "1/24/20": 15,
@@ -5476,10 +5476,10 @@
     "3/29/20": 772
   },
   {
-    "Province/State": "Shanghai",
-    "Country/Region": "China",
-    "Lat": 31.202,
-    "Long": 121.4491,
+    "province_state": "Shanghai",
+    "country_region": "China",
+    "lat": 31.202,
+    "long": 121.4491,
     "1/22/20": 9,
     "1/23/20": 16,
     "1/24/20": 20,
@@ -5550,10 +5550,10 @@
     "3/29/20": 492
   },
   {
-    "Province/State": "Shanxi",
-    "Country/Region": "China",
-    "Lat": 37.5777,
-    "Long": 112.2922,
+    "province_state": "Shanxi",
+    "country_region": "China",
+    "lat": 37.5777,
+    "long": 112.2922,
     "1/22/20": 1,
     "1/23/20": 1,
     "1/24/20": 1,
@@ -5624,10 +5624,10 @@
     "3/29/20": 136
   },
   {
-    "Province/State": "Sichuan",
-    "Country/Region": "China",
-    "Lat": 30.6171,
-    "Long": 102.7103,
+    "province_state": "Sichuan",
+    "country_region": "China",
+    "lat": 30.6171,
+    "long": 102.7103,
     "1/22/20": 5,
     "1/23/20": 8,
     "1/24/20": 15,
@@ -5698,10 +5698,10 @@
     "3/29/20": 550
   },
   {
-    "Province/State": "Tianjin",
-    "Country/Region": "China",
-    "Lat": 39.3054,
-    "Long": 117.323,
+    "province_state": "Tianjin",
+    "country_region": "China",
+    "lat": 39.3054,
+    "long": 117.323,
     "1/22/20": 4,
     "1/23/20": 4,
     "1/24/20": 8,
@@ -5772,10 +5772,10 @@
     "3/29/20": 166
   },
   {
-    "Province/State": "Tibet",
-    "Country/Region": "China",
-    "Lat": 31.6927,
-    "Long": 88.0924,
+    "province_state": "Tibet",
+    "country_region": "China",
+    "lat": 31.6927,
+    "long": 88.0924,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -5846,10 +5846,10 @@
     "3/29/20": 1
   },
   {
-    "Province/State": "Xinjiang",
-    "Country/Region": "China",
-    "Lat": 41.1129,
-    "Long": 85.2401,
+    "province_state": "Xinjiang",
+    "country_region": "China",
+    "lat": 41.1129,
+    "long": 85.2401,
     "1/22/20": 0,
     "1/23/20": 2,
     "1/24/20": 2,
@@ -5920,10 +5920,10 @@
     "3/29/20": 76
   },
   {
-    "Province/State": "Yunnan",
-    "Country/Region": "China",
-    "Lat": 24.974,
-    "Long": 101.487,
+    "province_state": "Yunnan",
+    "country_region": "China",
+    "lat": 24.974,
+    "long": 101.487,
     "1/22/20": 1,
     "1/23/20": 2,
     "1/24/20": 5,
@@ -5994,10 +5994,10 @@
     "3/29/20": 180
   },
   {
-    "Province/State": "Zhejiang",
-    "Country/Region": "China",
-    "Lat": 29.1832,
-    "Long": 120.0934,
+    "province_state": "Zhejiang",
+    "country_region": "China",
+    "lat": 29.1832,
+    "long": 120.0934,
     "1/22/20": 10,
     "1/23/20": 27,
     "1/24/20": 43,
@@ -6068,10 +6068,10 @@
     "3/29/20": 1254
   },
   {
-    "Province/State": "",
-    "Country/Region": "Colombia",
-    "Lat": 4.5709,
-    "Long": -74.2973,
+    "province_state": "",
+    "country_region": "Colombia",
+    "lat": 4.5709,
+    "long": -74.2973,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6142,10 +6142,10 @@
     "3/29/20": 702
   },
   {
-    "Province/State": "",
-    "Country/Region": "Congo (Brazzaville)",
-    "Lat": -4.0383,
-    "Long": 21.7587,
+    "province_state": "",
+    "country_region": "Congo (Brazzaville)",
+    "lat": -4.0383,
+    "long": 21.7587,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6216,10 +6216,10 @@
     "3/29/20": 19
   },
   {
-    "Province/State": "",
-    "Country/Region": "Congo (Kinshasa)",
-    "Lat": -4.0383,
-    "Long": 21.7587,
+    "province_state": "",
+    "country_region": "Congo (Kinshasa)",
+    "lat": -4.0383,
+    "long": 21.7587,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6290,10 +6290,10 @@
     "3/29/20": 65
   },
   {
-    "Province/State": "",
-    "Country/Region": "Costa Rica",
-    "Lat": 9.7489,
-    "Long": -83.7534,
+    "province_state": "",
+    "country_region": "Costa Rica",
+    "lat": 9.7489,
+    "long": -83.7534,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6364,10 +6364,10 @@
     "3/29/20": 314
   },
   {
-    "Province/State": "",
-    "Country/Region": "Cote d'Ivoire",
-    "Lat": 7.54,
-    "Long": -5.5471,
+    "province_state": "",
+    "country_region": "Cote d'Ivoire",
+    "lat": 7.54,
+    "long": -5.5471,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6438,10 +6438,10 @@
     "3/29/20": 165
   },
   {
-    "Province/State": "",
-    "Country/Region": "Croatia",
-    "Lat": 45.1,
-    "Long": 15.2,
+    "province_state": "",
+    "country_region": "Croatia",
+    "lat": 45.1,
+    "long": 15.2,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6512,10 +6512,10 @@
     "3/29/20": 713
   },
   {
-    "Province/State": "",
-    "Country/Region": "Diamond Princess",
-    "Lat": 0,
-    "Long": 0,
+    "province_state": "",
+    "country_region": "Diamond Princess",
+    "lat": 0,
+    "long": 0,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6586,10 +6586,10 @@
     "3/29/20": 712
   },
   {
-    "Province/State": "",
-    "Country/Region": "Cuba",
-    "Lat": 22,
-    "Long": -80,
+    "province_state": "",
+    "country_region": "Cuba",
+    "lat": 22,
+    "long": -80,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6660,10 +6660,10 @@
     "3/29/20": 139
   },
   {
-    "Province/State": "",
-    "Country/Region": "Cyprus",
-    "Lat": 35.1264,
-    "Long": 33.4299,
+    "province_state": "",
+    "country_region": "Cyprus",
+    "lat": 35.1264,
+    "long": 33.4299,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6734,10 +6734,10 @@
     "3/29/20": 214
   },
   {
-    "Province/State": "",
-    "Country/Region": "Czechia",
-    "Lat": 49.8175,
-    "Long": 15.473,
+    "province_state": "",
+    "country_region": "Czechia",
+    "lat": 49.8175,
+    "long": 15.473,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6808,10 +6808,10 @@
     "3/29/20": 2817
   },
   {
-    "Province/State": "Faroe Islands",
-    "Country/Region": "Denmark",
-    "Lat": 61.8926,
-    "Long": -6.9118,
+    "province_state": "Faroe Islands",
+    "country_region": "Denmark",
+    "lat": 61.8926,
+    "long": -6.9118,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6882,10 +6882,10 @@
     "3/29/20": 159
   },
   {
-    "Province/State": "Greenland",
-    "Country/Region": "Denmark",
-    "Lat": 71.7069,
-    "Long": -42.6043,
+    "province_state": "Greenland",
+    "country_region": "Denmark",
+    "lat": 71.7069,
+    "long": -42.6043,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -6956,10 +6956,10 @@
     "3/29/20": 10
   },
   {
-    "Province/State": "",
-    "Country/Region": "Denmark",
-    "Lat": 56.2639,
-    "Long": 9.5018,
+    "province_state": "",
+    "country_region": "Denmark",
+    "lat": 56.2639,
+    "long": 9.5018,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7030,10 +7030,10 @@
     "3/29/20": 2395
   },
   {
-    "Province/State": "",
-    "Country/Region": "Djibouti",
-    "Lat": 11.8251,
-    "Long": 42.5903,
+    "province_state": "",
+    "country_region": "Djibouti",
+    "lat": 11.8251,
+    "long": 42.5903,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7104,10 +7104,10 @@
     "3/29/20": 18
   },
   {
-    "Province/State": "",
-    "Country/Region": "Dominican Republic",
-    "Lat": 18.7357,
-    "Long": -70.1627,
+    "province_state": "",
+    "country_region": "Dominican Republic",
+    "lat": 18.7357,
+    "long": -70.1627,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7178,10 +7178,10 @@
     "3/29/20": 859
   },
   {
-    "Province/State": "",
-    "Country/Region": "Ecuador",
-    "Lat": -1.8312,
-    "Long": -78.1834,
+    "province_state": "",
+    "country_region": "Ecuador",
+    "lat": -1.8312,
+    "long": -78.1834,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7252,10 +7252,10 @@
     "3/29/20": 1924
   },
   {
-    "Province/State": "",
-    "Country/Region": "Egypt",
-    "Lat": 26,
-    "Long": 30,
+    "province_state": "",
+    "country_region": "Egypt",
+    "lat": 26,
+    "long": 30,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7326,10 +7326,10 @@
     "3/29/20": 609
   },
   {
-    "Province/State": "",
-    "Country/Region": "El Salvador",
-    "Lat": 13.7942,
-    "Long": -88.8965,
+    "province_state": "",
+    "country_region": "El Salvador",
+    "lat": 13.7942,
+    "long": -88.8965,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7400,10 +7400,10 @@
     "3/29/20": 24
   },
   {
-    "Province/State": "",
-    "Country/Region": "Equatorial Guinea",
-    "Lat": 1.5,
-    "Long": 10,
+    "province_state": "",
+    "country_region": "Equatorial Guinea",
+    "lat": 1.5,
+    "long": 10,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7474,10 +7474,10 @@
     "3/29/20": 12
   },
   {
-    "Province/State": "",
-    "Country/Region": "Eritrea",
-    "Lat": 15.1794,
-    "Long": 39.7823,
+    "province_state": "",
+    "country_region": "Eritrea",
+    "lat": 15.1794,
+    "long": 39.7823,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7548,10 +7548,10 @@
     "3/29/20": 12
   },
   {
-    "Province/State": "",
-    "Country/Region": "Estonia",
-    "Lat": 58.5953,
-    "Long": 25.0136,
+    "province_state": "",
+    "country_region": "Estonia",
+    "lat": 58.5953,
+    "long": 25.0136,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7622,10 +7622,10 @@
     "3/29/20": 679
   },
   {
-    "Province/State": "",
-    "Country/Region": "Eswatini",
-    "Lat": -26.5225,
-    "Long": 31.4659,
+    "province_state": "",
+    "country_region": "Eswatini",
+    "lat": -26.5225,
+    "long": 31.4659,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7696,10 +7696,10 @@
     "3/29/20": 9
   },
   {
-    "Province/State": "",
-    "Country/Region": "Ethiopia",
-    "Lat": 9.145,
-    "Long": 40.4897,
+    "province_state": "",
+    "country_region": "Ethiopia",
+    "lat": 9.145,
+    "long": 40.4897,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7770,10 +7770,10 @@
     "3/29/20": 21
   },
   {
-    "Province/State": "",
-    "Country/Region": "Fiji",
-    "Lat": -17.7134,
-    "Long": 178.065,
+    "province_state": "",
+    "country_region": "Fiji",
+    "lat": -17.7134,
+    "long": 178.065,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7844,10 +7844,10 @@
     "3/29/20": 5
   },
   {
-    "Province/State": "",
-    "Country/Region": "Finland",
-    "Lat": 64,
-    "Long": 26,
+    "province_state": "",
+    "country_region": "Finland",
+    "lat": 64,
+    "long": 26,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7918,10 +7918,10 @@
     "3/29/20": 1240
   },
   {
-    "Province/State": "French Guiana",
-    "Country/Region": "France",
-    "Lat": 3.9339,
-    "Long": -53.1258,
+    "province_state": "French Guiana",
+    "country_region": "France",
+    "lat": 3.9339,
+    "long": -53.1258,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -7992,10 +7992,10 @@
     "3/29/20": 28
   },
   {
-    "Province/State": "French Polynesia",
-    "Country/Region": "France",
-    "Lat": -17.6797,
-    "Long": 149.4068,
+    "province_state": "French Polynesia",
+    "country_region": "France",
+    "lat": -17.6797,
+    "long": 149.4068,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8066,10 +8066,10 @@
     "3/29/20": 30
   },
   {
-    "Province/State": "Guadeloupe",
-    "Country/Region": "France",
-    "Lat": 16.25,
-    "Long": -61.5833,
+    "province_state": "Guadeloupe",
+    "country_region": "France",
+    "lat": 16.25,
+    "long": -61.5833,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8140,10 +8140,10 @@
     "3/29/20": 106
   },
   {
-    "Province/State": "Mayotte",
-    "Country/Region": "France",
-    "Lat": -12.8275,
-    "Long": 45.1662,
+    "province_state": "Mayotte",
+    "country_region": "France",
+    "lat": -12.8275,
+    "long": 45.1662,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8214,10 +8214,10 @@
     "3/29/20": 63
   },
   {
-    "Province/State": "New Caledonia",
-    "Country/Region": "France",
-    "Lat": -20.9043,
-    "Long": 165.618,
+    "province_state": "New Caledonia",
+    "country_region": "France",
+    "lat": -20.9043,
+    "long": 165.618,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8288,10 +8288,10 @@
     "3/29/20": 15
   },
   {
-    "Province/State": "Reunion",
-    "Country/Region": "France",
-    "Lat": -21.1351,
-    "Long": 55.2471,
+    "province_state": "Reunion",
+    "country_region": "France",
+    "lat": -21.1351,
+    "long": 55.2471,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8362,10 +8362,10 @@
     "3/29/20": 183
   },
   {
-    "Province/State": "Saint Barthelemy",
-    "Country/Region": "France",
-    "Lat": 17.9,
-    "Long": -62.8333,
+    "province_state": "Saint Barthelemy",
+    "country_region": "France",
+    "lat": 17.9,
+    "long": -62.8333,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8436,10 +8436,10 @@
     "3/29/20": 5
   },
   {
-    "Province/State": "St Martin",
-    "Country/Region": "France",
-    "Lat": 18.0708,
-    "Long": -63.0501,
+    "province_state": "St Martin",
+    "country_region": "France",
+    "lat": 18.0708,
+    "long": -63.0501,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8510,10 +8510,10 @@
     "3/29/20": 11
   },
   {
-    "Province/State": "Martinique",
-    "Country/Region": "France",
-    "Lat": 14.6415,
-    "Long": -61.0242,
+    "province_state": "Martinique",
+    "country_region": "France",
+    "lat": 14.6415,
+    "long": -61.0242,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8584,10 +8584,10 @@
     "3/29/20": 93
   },
   {
-    "Province/State": "",
-    "Country/Region": "France",
-    "Lat": 46.2276,
-    "Long": 2.2137,
+    "province_state": "",
+    "country_region": "France",
+    "lat": 46.2276,
+    "long": 2.2137,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 2,
@@ -8658,10 +8658,10 @@
     "3/29/20": 40174
   },
   {
-    "Province/State": "",
-    "Country/Region": "Gabon",
-    "Lat": -0.8037,
-    "Long": 11.6094,
+    "province_state": "",
+    "country_region": "Gabon",
+    "lat": -0.8037,
+    "long": 11.6094,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8732,10 +8732,10 @@
     "3/29/20": 7
   },
   {
-    "Province/State": "",
-    "Country/Region": "Gambia",
-    "Lat": 13.4432,
-    "Long": -15.3101,
+    "province_state": "",
+    "country_region": "Gambia",
+    "lat": 13.4432,
+    "long": -15.3101,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8806,10 +8806,10 @@
     "3/29/20": 4
   },
   {
-    "Province/State": "",
-    "Country/Region": "Georgia",
-    "Lat": 42.3154,
-    "Long": 43.3569,
+    "province_state": "",
+    "country_region": "Georgia",
+    "lat": 42.3154,
+    "long": 43.3569,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8880,10 +8880,10 @@
     "3/29/20": 91
   },
   {
-    "Province/State": "",
-    "Country/Region": "Germany",
-    "Lat": 51,
-    "Long": 9,
+    "province_state": "",
+    "country_region": "Germany",
+    "lat": 51,
+    "long": 9,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -8954,10 +8954,10 @@
     "3/29/20": 62095
   },
   {
-    "Province/State": "",
-    "Country/Region": "Ghana",
-    "Lat": 7.9465,
-    "Long": -1.0232,
+    "province_state": "",
+    "country_region": "Ghana",
+    "lat": 7.9465,
+    "long": -1.0232,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9028,10 +9028,10 @@
     "3/29/20": 152
   },
   {
-    "Province/State": "",
-    "Country/Region": "Greece",
-    "Lat": 39.0742,
-    "Long": 21.8243,
+    "province_state": "",
+    "country_region": "Greece",
+    "lat": 39.0742,
+    "long": 21.8243,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9102,10 +9102,10 @@
     "3/29/20": 1156
   },
   {
-    "Province/State": "",
-    "Country/Region": "Guatemala",
-    "Lat": 15.7835,
-    "Long": -90.2308,
+    "province_state": "",
+    "country_region": "Guatemala",
+    "lat": 15.7835,
+    "long": -90.2308,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9176,10 +9176,10 @@
     "3/29/20": 34
   },
   {
-    "Province/State": "",
-    "Country/Region": "Guinea",
-    "Lat": 9.9456,
-    "Long": -9.6966,
+    "province_state": "",
+    "country_region": "Guinea",
+    "lat": 9.9456,
+    "long": -9.6966,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9250,10 +9250,10 @@
     "3/29/20": 16
   },
   {
-    "Province/State": "",
-    "Country/Region": "Guyana",
-    "Lat": 5,
-    "Long": -58.75,
+    "province_state": "",
+    "country_region": "Guyana",
+    "lat": 5,
+    "long": -58.75,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9324,10 +9324,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "",
-    "Country/Region": "Haiti",
-    "Lat": 18.9712,
-    "Long": -72.2852,
+    "province_state": "",
+    "country_region": "Haiti",
+    "lat": 18.9712,
+    "long": -72.2852,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9398,10 +9398,10 @@
     "3/29/20": 15
   },
   {
-    "Province/State": "",
-    "Country/Region": "Holy See",
-    "Lat": 41.9029,
-    "Long": 12.4534,
+    "province_state": "",
+    "country_region": "Holy See",
+    "lat": 41.9029,
+    "long": 12.4534,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9472,10 +9472,10 @@
     "3/29/20": 6
   },
   {
-    "Province/State": "",
-    "Country/Region": "Honduras",
-    "Lat": 15.2,
-    "Long": -86.2419,
+    "province_state": "",
+    "country_region": "Honduras",
+    "lat": 15.2,
+    "long": -86.2419,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9546,10 +9546,10 @@
     "3/29/20": 110
   },
   {
-    "Province/State": "",
-    "Country/Region": "Hungary",
-    "Lat": 47.1625,
-    "Long": 19.5033,
+    "province_state": "",
+    "country_region": "Hungary",
+    "lat": 47.1625,
+    "long": 19.5033,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9620,10 +9620,10 @@
     "3/29/20": 408
   },
   {
-    "Province/State": "",
-    "Country/Region": "Iceland",
-    "Lat": 64.9631,
-    "Long": -19.0208,
+    "province_state": "",
+    "country_region": "Iceland",
+    "lat": 64.9631,
+    "long": -19.0208,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9694,10 +9694,10 @@
     "3/29/20": 1020
   },
   {
-    "Province/State": "",
-    "Country/Region": "India",
-    "Lat": 21,
-    "Long": 78,
+    "province_state": "",
+    "country_region": "India",
+    "lat": 21,
+    "long": 78,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9768,10 +9768,10 @@
     "3/29/20": 1024
   },
   {
-    "Province/State": "",
-    "Country/Region": "Indonesia",
-    "Lat": -0.7893,
-    "Long": 113.9213,
+    "province_state": "",
+    "country_region": "Indonesia",
+    "lat": -0.7893,
+    "long": 113.9213,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9842,10 +9842,10 @@
     "3/29/20": 1285
   },
   {
-    "Province/State": "",
-    "Country/Region": "Iran",
-    "Lat": 32,
-    "Long": 53,
+    "province_state": "",
+    "country_region": "Iran",
+    "lat": 32,
+    "long": 53,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9916,10 +9916,10 @@
     "3/29/20": 38309
   },
   {
-    "Province/State": "",
-    "Country/Region": "Iraq",
-    "Lat": 33,
-    "Long": 44,
+    "province_state": "",
+    "country_region": "Iraq",
+    "lat": 33,
+    "long": 44,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -9990,10 +9990,10 @@
     "3/29/20": 547
   },
   {
-    "Province/State": "",
-    "Country/Region": "Ireland",
-    "Lat": 53.1424,
-    "Long": -7.6921,
+    "province_state": "",
+    "country_region": "Ireland",
+    "lat": 53.1424,
+    "long": -7.6921,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10064,10 +10064,10 @@
     "3/29/20": 2615
   },
   {
-    "Province/State": "",
-    "Country/Region": "Israel",
-    "Lat": 31,
-    "Long": 35,
+    "province_state": "",
+    "country_region": "Israel",
+    "lat": 31,
+    "long": 35,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10138,10 +10138,10 @@
     "3/29/20": 4247
   },
   {
-    "Province/State": "",
-    "Country/Region": "Italy",
-    "Lat": 43,
-    "Long": 12,
+    "province_state": "",
+    "country_region": "Italy",
+    "lat": 43,
+    "long": 12,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10212,10 +10212,10 @@
     "3/29/20": 97689
   },
   {
-    "Province/State": "",
-    "Country/Region": "Jamaica",
-    "Lat": 18.1096,
-    "Long": -77.2975,
+    "province_state": "",
+    "country_region": "Jamaica",
+    "lat": 18.1096,
+    "long": -77.2975,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10286,10 +10286,10 @@
     "3/29/20": 32
   },
   {
-    "Province/State": "",
-    "Country/Region": "Japan",
-    "Lat": 36,
-    "Long": 138,
+    "province_state": "",
+    "country_region": "Japan",
+    "lat": 36,
+    "long": 138,
     "1/22/20": 2,
     "1/23/20": 2,
     "1/24/20": 2,
@@ -10360,10 +10360,10 @@
     "3/29/20": 1866
   },
   {
-    "Province/State": "",
-    "Country/Region": "Jordan",
-    "Lat": 31.24,
-    "Long": 36.51,
+    "province_state": "",
+    "country_region": "Jordan",
+    "lat": 31.24,
+    "long": 36.51,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10434,10 +10434,10 @@
     "3/29/20": 259
   },
   {
-    "Province/State": "",
-    "Country/Region": "Kazakhstan",
-    "Lat": 48.0196,
-    "Long": 66.9237,
+    "province_state": "",
+    "country_region": "Kazakhstan",
+    "lat": 48.0196,
+    "long": 66.9237,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10508,10 +10508,10 @@
     "3/29/20": 284
   },
   {
-    "Province/State": "",
-    "Country/Region": "Kenya",
-    "Lat": -0.0236,
-    "Long": 37.9062,
+    "province_state": "",
+    "country_region": "Kenya",
+    "lat": -0.0236,
+    "long": 37.9062,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10582,10 +10582,10 @@
     "3/29/20": 42
   },
   {
-    "Province/State": "",
-    "Country/Region": "Korea, South",
-    "Lat": 36,
-    "Long": 128,
+    "province_state": "",
+    "country_region": "Korea, South",
+    "lat": 36,
+    "long": 128,
     "1/22/20": 1,
     "1/23/20": 1,
     "1/24/20": 2,
@@ -10656,10 +10656,10 @@
     "3/29/20": 9583
   },
   {
-    "Province/State": "",
-    "Country/Region": "Kuwait",
-    "Lat": 29.5,
-    "Long": 47.75,
+    "province_state": "",
+    "country_region": "Kuwait",
+    "lat": 29.5,
+    "long": 47.75,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10730,10 +10730,10 @@
     "3/29/20": 255
   },
   {
-    "Province/State": "",
-    "Country/Region": "Kyrgyzstan",
-    "Lat": 41.2044,
-    "Long": 74.7661,
+    "province_state": "",
+    "country_region": "Kyrgyzstan",
+    "lat": 41.2044,
+    "long": 74.7661,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10804,10 +10804,10 @@
     "3/29/20": 84
   },
   {
-    "Province/State": "",
-    "Country/Region": "Latvia",
-    "Lat": 56.8796,
-    "Long": 24.6032,
+    "province_state": "",
+    "country_region": "latvia",
+    "lat": 56.8796,
+    "long": 24.6032,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10878,10 +10878,10 @@
     "3/29/20": 347
   },
   {
-    "Province/State": "",
-    "Country/Region": "Lebanon",
-    "Lat": 33.8547,
-    "Long": 35.8623,
+    "province_state": "",
+    "country_region": "Lebanon",
+    "lat": 33.8547,
+    "long": 35.8623,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -10952,10 +10952,10 @@
     "3/29/20": 438
   },
   {
-    "Province/State": "",
-    "Country/Region": "Liberia",
-    "Lat": 6.4281,
-    "Long": -9.4295,
+    "province_state": "",
+    "country_region": "Liberia",
+    "lat": 6.4281,
+    "long": -9.4295,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11026,10 +11026,10 @@
     "3/29/20": 3
   },
   {
-    "Province/State": "",
-    "Country/Region": "Liechtenstein",
-    "Lat": 47.14,
-    "Long": 9.55,
+    "province_state": "",
+    "country_region": "Liechtenstein",
+    "lat": 47.14,
+    "long": 9.55,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11100,10 +11100,10 @@
     "3/29/20": 56
   },
   {
-    "Province/State": "",
-    "Country/Region": "Lithuania",
-    "Lat": 55.1694,
-    "Long": 23.8813,
+    "province_state": "",
+    "country_region": "Lithuania",
+    "lat": 55.1694,
+    "long": 23.8813,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11174,10 +11174,10 @@
     "3/29/20": 460
   },
   {
-    "Province/State": "",
-    "Country/Region": "Luxembourg",
-    "Lat": 49.8153,
-    "Long": 6.1296,
+    "province_state": "",
+    "country_region": "Luxembourg",
+    "lat": 49.8153,
+    "long": 6.1296,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11248,10 +11248,10 @@
     "3/29/20": 1950
   },
   {
-    "Province/State": "",
-    "Country/Region": "Madagascar",
-    "Lat": -18.7669,
-    "Long": 46.8691,
+    "province_state": "",
+    "country_region": "Madagascar",
+    "lat": -18.7669,
+    "long": 46.8691,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11322,10 +11322,10 @@
     "3/29/20": 39
   },
   {
-    "Province/State": "",
-    "Country/Region": "Malaysia",
-    "Lat": 2.5,
-    "Long": 112.5,
+    "province_state": "",
+    "country_region": "Malaysia",
+    "lat": 2.5,
+    "long": 112.5,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11396,10 +11396,10 @@
     "3/29/20": 2470
   },
   {
-    "Province/State": "",
-    "Country/Region": "Maldives",
-    "Lat": 3.2028,
-    "Long": 73.2207,
+    "province_state": "",
+    "country_region": "Maldives",
+    "lat": 3.2028,
+    "long": 73.2207,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11470,10 +11470,10 @@
     "3/29/20": 17
   },
   {
-    "Province/State": "",
-    "Country/Region": "Malta",
-    "Lat": 35.9375,
-    "Long": 14.3754,
+    "province_state": "",
+    "country_region": "Malta",
+    "lat": 35.9375,
+    "long": 14.3754,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11544,10 +11544,10 @@
     "3/29/20": 151
   },
   {
-    "Province/State": "",
-    "Country/Region": "Mauritania",
-    "Lat": 21.0079,
-    "Long": 10.9408,
+    "province_state": "",
+    "country_region": "Mauritania",
+    "lat": 21.0079,
+    "long": 10.9408,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11618,10 +11618,10 @@
     "3/29/20": 5
   },
   {
-    "Province/State": "",
-    "Country/Region": "Mauritius",
-    "Lat": -20.2,
-    "Long": 57.5,
+    "province_state": "",
+    "country_region": "Mauritius",
+    "lat": -20.2,
+    "long": 57.5,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11692,10 +11692,10 @@
     "3/29/20": 107
   },
   {
-    "Province/State": "",
-    "Country/Region": "Mexico",
-    "Lat": 23.6345,
-    "Long": -102.5528,
+    "province_state": "",
+    "country_region": "Mexico",
+    "lat": 23.6345,
+    "long": -102.5528,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11766,10 +11766,10 @@
     "3/29/20": 848
   },
   {
-    "Province/State": "",
-    "Country/Region": "Moldova",
-    "Lat": 47.4116,
-    "Long": 28.3699,
+    "province_state": "",
+    "country_region": "Moldova",
+    "lat": 47.4116,
+    "long": 28.3699,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11840,10 +11840,10 @@
     "3/29/20": 263
   },
   {
-    "Province/State": "",
-    "Country/Region": "Monaco",
-    "Lat": 43.7333,
-    "Long": 7.4167,
+    "province_state": "",
+    "country_region": "Monaco",
+    "lat": 43.7333,
+    "long": 7.4167,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11914,10 +11914,10 @@
     "3/29/20": 46
   },
   {
-    "Province/State": "",
-    "Country/Region": "Mongolia",
-    "Lat": 46.8625,
-    "Long": 103.8467,
+    "province_state": "",
+    "country_region": "Mongolia",
+    "lat": 46.8625,
+    "long": 103.8467,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -11988,10 +11988,10 @@
     "3/29/20": 12
   },
   {
-    "Province/State": "",
-    "Country/Region": "Montenegro",
-    "Lat": 42.5,
-    "Long": 19.3,
+    "province_state": "",
+    "country_region": "Montenegro",
+    "lat": 42.5,
+    "long": 19.3,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12062,10 +12062,10 @@
     "3/29/20": 85
   },
   {
-    "Province/State": "",
-    "Country/Region": "Morocco",
-    "Lat": 31.7917,
-    "Long": -7.0926,
+    "province_state": "",
+    "country_region": "Morocco",
+    "lat": 31.7917,
+    "long": -7.0926,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12136,10 +12136,10 @@
     "3/29/20": 479
   },
   {
-    "Province/State": "",
-    "Country/Region": "Namibia",
-    "Lat": -22.9576,
-    "Long": 18.4904,
+    "province_state": "",
+    "country_region": "Namibia",
+    "lat": -22.9576,
+    "long": 18.4904,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12210,10 +12210,10 @@
     "3/29/20": 11
   },
   {
-    "Province/State": "",
-    "Country/Region": "Nepal",
-    "Lat": 28.1667,
-    "Long": 84.25,
+    "province_state": "",
+    "country_region": "Nepal",
+    "lat": 28.1667,
+    "long": 84.25,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12284,10 +12284,10 @@
     "3/29/20": 5
   },
   {
-    "Province/State": "Aruba",
-    "Country/Region": "Netherlands",
-    "Lat": 12.5186,
-    "Long": -70.0358,
+    "province_state": "Aruba",
+    "country_region": "Netherlands",
+    "lat": 12.5186,
+    "long": -70.0358,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12358,10 +12358,10 @@
     "3/29/20": 50
   },
   {
-    "Province/State": "Curacao",
-    "Country/Region": "Netherlands",
-    "Lat": 12.1696,
-    "Long": -68.99,
+    "province_state": "Curacao",
+    "country_region": "Netherlands",
+    "lat": 12.1696,
+    "long": -68.99,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12432,10 +12432,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "Sint Maarten",
-    "Country/Region": "Netherlands",
-    "Lat": 18.0425,
-    "Long": -63.0548,
+    "province_state": "Sint Maarten",
+    "country_region": "Netherlands",
+    "lat": 18.0425,
+    "long": -63.0548,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12506,10 +12506,10 @@
     "3/29/20": 6
   },
   {
-    "Province/State": "",
-    "Country/Region": "Netherlands",
-    "Lat": 52.1326,
-    "Long": 5.2913,
+    "province_state": "",
+    "country_region": "Netherlands",
+    "lat": 52.1326,
+    "long": 5.2913,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12580,10 +12580,10 @@
     "3/29/20": 10866
   },
   {
-    "Province/State": "",
-    "Country/Region": "New Zealand",
-    "Lat": -40.9006,
-    "Long": 174.886,
+    "province_state": "",
+    "country_region": "New Zealand",
+    "lat": -40.9006,
+    "long": 174.886,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12654,10 +12654,10 @@
     "3/29/20": 514
   },
   {
-    "Province/State": "",
-    "Country/Region": "Nicaragua",
-    "Lat": 12.8654,
-    "Long": -85.2072,
+    "province_state": "",
+    "country_region": "Nicaragua",
+    "lat": 12.8654,
+    "long": -85.2072,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12728,10 +12728,10 @@
     "3/29/20": 4
   },
   {
-    "Province/State": "",
-    "Country/Region": "Niger",
-    "Lat": 17.6078,
-    "Long": 8.0817,
+    "province_state": "",
+    "country_region": "Niger",
+    "lat": 17.6078,
+    "long": 8.0817,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12802,10 +12802,10 @@
     "3/29/20": 18
   },
   {
-    "Province/State": "",
-    "Country/Region": "Nigeria",
-    "Lat": 9.082,
-    "Long": 8.6753,
+    "province_state": "",
+    "country_region": "Nigeria",
+    "lat": 9.082,
+    "long": 8.6753,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12876,10 +12876,10 @@
     "3/29/20": 111
   },
   {
-    "Province/State": "",
-    "Country/Region": "North Macedonia",
-    "Lat": 41.6086,
-    "Long": 21.7453,
+    "province_state": "",
+    "country_region": "North Macedonia",
+    "lat": 41.6086,
+    "long": 21.7453,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -12950,10 +12950,10 @@
     "3/29/20": 259
   },
   {
-    "Province/State": "",
-    "Country/Region": "Norway",
-    "Lat": 60.472,
-    "Long": 8.4689,
+    "province_state": "",
+    "country_region": "Norway",
+    "lat": 60.472,
+    "long": 8.4689,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13024,10 +13024,10 @@
     "3/29/20": 4284
   },
   {
-    "Province/State": "",
-    "Country/Region": "Oman",
-    "Lat": 21,
-    "Long": 57,
+    "province_state": "",
+    "country_region": "Oman",
+    "lat": 21,
+    "long": 57,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13098,10 +13098,10 @@
     "3/29/20": 167
   },
   {
-    "Province/State": "",
-    "Country/Region": "Pakistan",
-    "Lat": 30.3753,
-    "Long": 69.3451,
+    "province_state": "",
+    "country_region": "Pakistan",
+    "lat": 30.3753,
+    "long": 69.3451,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13172,10 +13172,10 @@
     "3/29/20": 1597
   },
   {
-    "Province/State": "",
-    "Country/Region": "Panama",
-    "Lat": 8.538,
-    "Long": -80.7821,
+    "province_state": "",
+    "country_region": "Panama",
+    "lat": 8.538,
+    "long": -80.7821,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13246,10 +13246,10 @@
     "3/29/20": 901
   },
   {
-    "Province/State": "",
-    "Country/Region": "Papua New Guinea",
-    "Lat": -6.315,
-    "Long": 143.9555,
+    "province_state": "",
+    "country_region": "Papua New Guinea",
+    "lat": -6.315,
+    "long": 143.9555,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13320,10 +13320,10 @@
     "3/29/20": 1
   },
   {
-    "Province/State": "",
-    "Country/Region": "Paraguay",
-    "Lat": -23.4425,
-    "Long": -58.4438,
+    "province_state": "",
+    "country_region": "Paraguay",
+    "lat": -23.4425,
+    "long": -58.4438,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13394,10 +13394,10 @@
     "3/29/20": 59
   },
   {
-    "Province/State": "",
-    "Country/Region": "Peru",
-    "Lat": -9.19,
-    "Long": -75.0152,
+    "province_state": "",
+    "country_region": "Peru",
+    "lat": -9.19,
+    "long": -75.0152,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13468,10 +13468,10 @@
     "3/29/20": 852
   },
   {
-    "Province/State": "",
-    "Country/Region": "Philippines",
-    "Lat": 13,
-    "Long": 122,
+    "province_state": "",
+    "country_region": "Philippines",
+    "lat": 13,
+    "long": 122,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13542,10 +13542,10 @@
     "3/29/20": 1418
   },
   {
-    "Province/State": "",
-    "Country/Region": "Poland",
-    "Lat": 51.9194,
-    "Long": 19.1451,
+    "province_state": "",
+    "country_region": "Poland",
+    "lat": 51.9194,
+    "long": 19.1451,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13616,10 +13616,10 @@
     "3/29/20": 1862
   },
   {
-    "Province/State": "",
-    "Country/Region": "Portugal",
-    "Lat": 39.3999,
-    "Long": -8.2245,
+    "province_state": "",
+    "country_region": "Portugal",
+    "lat": 39.3999,
+    "long": -8.2245,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13690,10 +13690,10 @@
     "3/29/20": 5962
   },
   {
-    "Province/State": "",
-    "Country/Region": "Qatar",
-    "Lat": 25.3548,
-    "Long": 51.1839,
+    "province_state": "",
+    "country_region": "Qatar",
+    "lat": 25.3548,
+    "long": 51.1839,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13764,10 +13764,10 @@
     "3/29/20": 634
   },
   {
-    "Province/State": "",
-    "Country/Region": "Romania",
-    "Lat": 45.9432,
-    "Long": 24.9668,
+    "province_state": "",
+    "country_region": "Romania",
+    "lat": 45.9432,
+    "long": 24.9668,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13838,10 +13838,10 @@
     "3/29/20": 1815
   },
   {
-    "Province/State": "",
-    "Country/Region": "Russia",
-    "Lat": 60,
-    "Long": 90,
+    "province_state": "",
+    "country_region": "Russia",
+    "lat": 60,
+    "long": 90,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13912,10 +13912,10 @@
     "3/29/20": 1534
   },
   {
-    "Province/State": "",
-    "Country/Region": "Rwanda",
-    "Lat": -1.9403,
-    "Long": 29.8739,
+    "province_state": "",
+    "country_region": "Rwanda",
+    "lat": -1.9403,
+    "long": 29.8739,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -13986,10 +13986,10 @@
     "3/29/20": 70
   },
   {
-    "Province/State": "",
-    "Country/Region": "Saint Lucia",
-    "Lat": 13.9094,
-    "Long": -60.9789,
+    "province_state": "",
+    "country_region": "Saint Lucia",
+    "lat": 13.9094,
+    "long": -60.9789,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14060,10 +14060,10 @@
     "3/29/20": 9
   },
   {
-    "Province/State": "",
-    "Country/Region": "Saint Vincent and the Grenadines",
-    "Lat": 12.9843,
-    "Long": -61.2872,
+    "province_state": "",
+    "country_region": "Saint Vincent and the Grenadines",
+    "lat": 12.9843,
+    "long": -61.2872,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14134,10 +14134,10 @@
     "3/29/20": 1
   },
   {
-    "Province/State": "",
-    "Country/Region": "San Marino",
-    "Lat": 43.9424,
-    "Long": 12.4578,
+    "province_state": "",
+    "country_region": "San Marino",
+    "lat": 43.9424,
+    "long": 12.4578,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14208,10 +14208,10 @@
     "3/29/20": 224
   },
   {
-    "Province/State": "",
-    "Country/Region": "Saudi Arabia",
-    "Lat": 24,
-    "Long": 45,
+    "province_state": "",
+    "country_region": "Saudi Arabia",
+    "lat": 24,
+    "long": 45,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14282,10 +14282,10 @@
     "3/29/20": 1299
   },
   {
-    "Province/State": "",
-    "Country/Region": "Senegal",
-    "Lat": 14.4974,
-    "Long": -14.4524,
+    "province_state": "",
+    "country_region": "Senegal",
+    "lat": 14.4974,
+    "long": -14.4524,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14356,10 +14356,10 @@
     "3/29/20": 142
   },
   {
-    "Province/State": "",
-    "Country/Region": "Serbia",
-    "Lat": 44.0165,
-    "Long": 21.0059,
+    "province_state": "",
+    "country_region": "Serbia",
+    "lat": 44.0165,
+    "long": 21.0059,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14430,10 +14430,10 @@
     "3/29/20": 741
   },
   {
-    "Province/State": "",
-    "Country/Region": "Seychelles",
-    "Lat": -4.6796,
-    "Long": 55.492,
+    "province_state": "",
+    "country_region": "Seychelles",
+    "lat": -4.6796,
+    "long": 55.492,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14504,10 +14504,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "",
-    "Country/Region": "Singapore",
-    "Lat": 1.2833,
-    "Long": 103.8333,
+    "province_state": "",
+    "country_region": "Singapore",
+    "lat": 1.2833,
+    "long": 103.8333,
     "1/22/20": 0,
     "1/23/20": 1,
     "1/24/20": 3,
@@ -14578,10 +14578,10 @@
     "3/29/20": 844
   },
   {
-    "Province/State": "",
-    "Country/Region": "Slovakia",
-    "Lat": 48.669,
-    "Long": 19.699,
+    "province_state": "",
+    "country_region": "Slovakia",
+    "lat": 48.669,
+    "long": 19.699,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14652,10 +14652,10 @@
     "3/29/20": 314
   },
   {
-    "Province/State": "",
-    "Country/Region": "Slovenia",
-    "Lat": 46.1512,
-    "Long": 14.9955,
+    "province_state": "",
+    "country_region": "Slovenia",
+    "lat": 46.1512,
+    "long": 14.9955,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14726,10 +14726,10 @@
     "3/29/20": 730
   },
   {
-    "Province/State": "",
-    "Country/Region": "Somalia",
-    "Lat": 5.1521,
-    "Long": 46.1996,
+    "province_state": "",
+    "country_region": "Somalia",
+    "lat": 5.1521,
+    "long": 46.1996,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14800,10 +14800,10 @@
     "3/29/20": 3
   },
   {
-    "Province/State": "",
-    "Country/Region": "South Africa",
-    "Lat": -30.5595,
-    "Long": 22.9375,
+    "province_state": "",
+    "country_region": "South Africa",
+    "lat": -30.5595,
+    "long": 22.9375,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14874,10 +14874,10 @@
     "3/29/20": 1280
   },
   {
-    "Province/State": "",
-    "Country/Region": "Spain",
-    "Lat": 40,
-    "Long": -4,
+    "province_state": "",
+    "country_region": "Spain",
+    "lat": 40,
+    "long": -4,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -14948,10 +14948,10 @@
     "3/29/20": 80110
   },
   {
-    "Province/State": "",
-    "Country/Region": "Sri Lanka",
-    "Lat": 7,
-    "Long": 81,
+    "province_state": "",
+    "country_region": "Sri Lanka",
+    "lat": 7,
+    "long": 81,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15022,10 +15022,10 @@
     "3/29/20": 117
   },
   {
-    "Province/State": "",
-    "Country/Region": "Sudan",
-    "Lat": 12.8628,
-    "Long": 30.2176,
+    "province_state": "",
+    "country_region": "Sudan",
+    "lat": 12.8628,
+    "long": 30.2176,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15096,10 +15096,10 @@
     "3/29/20": 6
   },
   {
-    "Province/State": "",
-    "Country/Region": "Suriname",
-    "Lat": 3.9193,
-    "Long": -56.0278,
+    "province_state": "",
+    "country_region": "Suriname",
+    "lat": 3.9193,
+    "long": -56.0278,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15170,10 +15170,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "",
-    "Country/Region": "Sweden",
-    "Lat": 63,
-    "Long": 16,
+    "province_state": "",
+    "country_region": "Sweden",
+    "lat": 63,
+    "long": 16,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15244,10 +15244,10 @@
     "3/29/20": 3700
   },
   {
-    "Province/State": "",
-    "Country/Region": "Switzerland",
-    "Lat": 46.8182,
-    "Long": 8.2275,
+    "province_state": "",
+    "country_region": "Switzerland",
+    "lat": 46.8182,
+    "long": 8.2275,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15318,10 +15318,10 @@
     "3/29/20": 14829
   },
   {
-    "Province/State": "",
-    "Country/Region": "Taiwan*",
-    "Lat": 23.7,
-    "Long": 121,
+    "province_state": "",
+    "country_region": "Taiwan*",
+    "lat": 23.7,
+    "long": 121,
     "1/22/20": 1,
     "1/23/20": 1,
     "1/24/20": 3,
@@ -15392,10 +15392,10 @@
     "3/29/20": 298
   },
   {
-    "Province/State": "",
-    "Country/Region": "Tanzania",
-    "Lat": -6.369,
-    "Long": 34.8888,
+    "province_state": "",
+    "country_region": "Tanzania",
+    "lat": -6.369,
+    "long": 34.8888,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15466,10 +15466,10 @@
     "3/29/20": 14
   },
   {
-    "Province/State": "",
-    "Country/Region": "Thailand",
-    "Lat": 15,
-    "Long": 101,
+    "province_state": "",
+    "country_region": "Thailand",
+    "lat": 15,
+    "long": 101,
     "1/22/20": 2,
     "1/23/20": 3,
     "1/24/20": 5,
@@ -15540,10 +15540,10 @@
     "3/29/20": 1388
   },
   {
-    "Province/State": "",
-    "Country/Region": "Togo",
-    "Lat": 8.6195,
-    "Long": 0.8248,
+    "province_state": "",
+    "country_region": "Togo",
+    "lat": 8.6195,
+    "long": 0.8248,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15614,10 +15614,10 @@
     "3/29/20": 25
   },
   {
-    "Province/State": "",
-    "Country/Region": "Trinidad and Tobago",
-    "Lat": 10.6918,
-    "Long": -61.2225,
+    "province_state": "",
+    "country_region": "Trinidad and Tobago",
+    "lat": 10.6918,
+    "long": -61.2225,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15688,10 +15688,10 @@
     "3/29/20": 78
   },
   {
-    "Province/State": "",
-    "Country/Region": "Tunisia",
-    "Lat": 34,
-    "Long": 9,
+    "province_state": "",
+    "country_region": "Tunisia",
+    "lat": 34,
+    "long": 9,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15762,10 +15762,10 @@
     "3/29/20": 312
   },
   {
-    "Province/State": "",
-    "Country/Region": "Turkey",
-    "Lat": 38.9637,
-    "Long": 35.2433,
+    "province_state": "",
+    "country_region": "Turkey",
+    "lat": 38.9637,
+    "long": 35.2433,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15836,10 +15836,10 @@
     "3/29/20": 9217
   },
   {
-    "Province/State": "",
-    "Country/Region": "Uganda",
-    "Lat": 1,
-    "Long": 32,
+    "province_state": "",
+    "country_region": "Uganda",
+    "lat": 1,
+    "long": 32,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15910,10 +15910,10 @@
     "3/29/20": 33
   },
   {
-    "Province/State": "",
-    "Country/Region": "Ukraine",
-    "Lat": 48.3794,
-    "Long": 31.1656,
+    "province_state": "",
+    "country_region": "Ukraine",
+    "lat": 48.3794,
+    "long": 31.1656,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -15984,10 +15984,10 @@
     "3/29/20": 475
   },
   {
-    "Province/State": "",
-    "Country/Region": "United Arab Emirates",
-    "Lat": 24,
-    "Long": 54,
+    "province_state": "",
+    "country_region": "United Arab Emirates",
+    "lat": 24,
+    "long": 54,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16058,10 +16058,10 @@
     "3/29/20": 570
   },
   {
-    "Province/State": "Bermuda",
-    "Country/Region": "United Kingdom",
-    "Lat": 32.3078,
-    "Long": -64.7505,
+    "province_state": "Bermuda",
+    "country_region": "United Kingdom",
+    "lat": 32.3078,
+    "long": -64.7505,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16132,10 +16132,10 @@
     "3/29/20": 22
   },
   {
-    "Province/State": "Cayman Islands",
-    "Country/Region": "United Kingdom",
-    "Lat": 19.3133,
-    "Long": -81.2546,
+    "province_state": "Cayman Islands",
+    "country_region": "United Kingdom",
+    "lat": 19.3133,
+    "long": -81.2546,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16206,10 +16206,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "Channel Islands",
-    "Country/Region": "United Kingdom",
-    "Lat": 49.3723,
-    "Long": -2.3644,
+    "province_state": "Channel Islands",
+    "country_region": "United Kingdom",
+    "lat": 49.3723,
+    "long": -2.3644,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16280,10 +16280,10 @@
     "3/29/20": 108
   },
   {
-    "Province/State": "Gibraltar",
-    "Country/Region": "United Kingdom",
-    "Lat": 36.1408,
-    "Long": -5.3536,
+    "province_state": "Gibraltar",
+    "country_region": "United Kingdom",
+    "lat": 36.1408,
+    "long": -5.3536,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16354,10 +16354,10 @@
     "3/29/20": 65
   },
   {
-    "Province/State": "Isle of Man",
-    "Country/Region": "United Kingdom",
-    "Lat": 54.2361,
-    "Long": -4.5481,
+    "province_state": "Isle of Man",
+    "country_region": "United Kingdom",
+    "lat": 54.2361,
+    "long": -4.5481,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16428,10 +16428,10 @@
     "3/29/20": 42
   },
   {
-    "Province/State": "Montserrat",
-    "Country/Region": "United Kingdom",
-    "Lat": 16.7425,
-    "Long": -62.1874,
+    "province_state": "Montserrat",
+    "country_region": "United Kingdom",
+    "lat": 16.7425,
+    "long": -62.1874,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16502,10 +16502,10 @@
     "3/29/20": 5
   },
   {
-    "Province/State": "",
-    "Country/Region": "United Kingdom",
-    "Lat": 55.3781,
-    "Long": -3.4360000000000004,
+    "province_state": "",
+    "country_region": "United Kingdom",
+    "lat": 55.3781,
+    "long": -3.4360000000000004,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16576,10 +16576,10 @@
     "3/29/20": 19522
   },
   {
-    "Province/State": "",
-    "Country/Region": "Uruguay",
-    "Lat": -32.5228,
-    "Long": -55.7658,
+    "province_state": "",
+    "country_region": "Uruguay",
+    "lat": -32.5228,
+    "long": -55.7658,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16650,10 +16650,10 @@
     "3/29/20": 304
   },
   {
-    "Province/State": "",
-    "Country/Region": "US",
-    "Lat": 37.0902,
-    "Long": -95.7129,
+    "province_state": "",
+    "country_region": "US",
+    "lat": 37.0902,
+    "long": -95.7129,
     "1/22/20": 1,
     "1/23/20": 1,
     "1/24/20": 2,
@@ -16724,10 +16724,10 @@
     "3/29/20": 140886
   },
   {
-    "Province/State": "",
-    "Country/Region": "Uzbekistan",
-    "Lat": 41.3775,
-    "Long": 64.5853,
+    "province_state": "",
+    "country_region": "Uzbekistan",
+    "lat": 41.3775,
+    "long": 64.5853,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16798,10 +16798,10 @@
     "3/29/20": 144
   },
   {
-    "Province/State": "",
-    "Country/Region": "Venezuela",
-    "Lat": 6.4238,
-    "Long": -66.5897,
+    "province_state": "",
+    "country_region": "Venezuela",
+    "lat": 6.4238,
+    "long": -66.5897,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -16872,10 +16872,10 @@
     "3/29/20": 119
   },
   {
-    "Province/State": "",
-    "Country/Region": "Vietnam",
-    "Lat": 16,
-    "Long": 108,
+    "province_state": "",
+    "country_region": "Vietnam",
+    "lat": 16,
+    "long": 108,
     "1/22/20": 0,
     "1/23/20": 2,
     "1/24/20": 2,
@@ -16946,10 +16946,10 @@
     "3/29/20": 188
   },
   {
-    "Province/State": "",
-    "Country/Region": "Zambia",
-    "Lat": -15.4167,
-    "Long": 28.2833,
+    "province_state": "",
+    "country_region": "Zambia",
+    "lat": -15.4167,
+    "long": 28.2833,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17020,10 +17020,10 @@
     "3/29/20": 29
   },
   {
-    "Province/State": "",
-    "Country/Region": "Zimbabwe",
-    "Lat": -20,
-    "Long": 30,
+    "province_state": "",
+    "country_region": "Zimbabwe",
+    "lat": -20,
+    "long": 30,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17094,10 +17094,10 @@
     "3/29/20": 7
   },
   {
-    "Province/State": "Diamond Princess",
-    "Country/Region": "Canada",
-    "Lat": 0,
-    "Long": 0,
+    "province_state": "Diamond Princess",
+    "country_region": "Canada",
+    "lat": 0,
+    "long": 0,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17168,10 +17168,10 @@
     "3/29/20": 0
   },
   {
-    "Province/State": "",
-    "Country/Region": "Dominica",
-    "Lat": 15.415,
-    "Long": -61.371,
+    "province_state": "",
+    "country_region": "Dominica",
+    "lat": 15.415,
+    "long": -61.371,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17242,10 +17242,10 @@
     "3/29/20": 11
   },
   {
-    "Province/State": "",
-    "Country/Region": "Grenada",
-    "Lat": 12.1165,
-    "Long": -61.679,
+    "province_state": "",
+    "country_region": "Grenada",
+    "lat": 12.1165,
+    "long": -61.679,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17316,10 +17316,10 @@
     "3/29/20": 9
   },
   {
-    "Province/State": "",
-    "Country/Region": "Mozambique",
-    "Lat": -18.665695,
-    "Long": 35.529562,
+    "province_state": "",
+    "country_region": "Mozambique",
+    "lat": -18.665695,
+    "long": 35.529562,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17390,10 +17390,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "",
-    "Country/Region": "Syria",
-    "Lat": 34.802075,
-    "Long": 38.99681500000001,
+    "province_state": "",
+    "country_region": "Syria",
+    "lat": 34.802075,
+    "long": 38.99681500000001,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17464,10 +17464,10 @@
     "3/29/20": 9
   },
   {
-    "Province/State": "",
-    "Country/Region": "Timor-Leste",
-    "Lat": -8.874217,
-    "Long": 125.727539,
+    "province_state": "",
+    "country_region": "Timor-Leste",
+    "lat": -8.874217,
+    "long": 125.727539,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17538,10 +17538,10 @@
     "3/29/20": 1
   },
   {
-    "Province/State": "",
-    "Country/Region": "Belize",
-    "Lat": 13.1939,
-    "Long": -59.5432,
+    "province_state": "",
+    "country_region": "Belize",
+    "lat": 13.1939,
+    "long": -59.5432,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17612,10 +17612,10 @@
     "3/29/20": 2
   },
   {
-    "Province/State": "Recovered",
-    "Country/Region": "Canada",
-    "Lat": 0,
-    "Long": 0,
+    "province_state": "Recovered",
+    "country_region": "Canada",
+    "lat": 0,
+    "long": 0,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17686,10 +17686,10 @@
     "3/29/20": 0
   },
   {
-    "Province/State": "",
-    "Country/Region": "Laos",
-    "Lat": 19.85627,
-    "Long": 102.495496,
+    "province_state": "",
+    "country_region": "Laos",
+    "lat": 19.85627,
+    "long": 102.495496,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17760,10 +17760,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "",
-    "Country/Region": "Libya",
-    "Lat": 26.3351,
-    "Long": 17.228331,
+    "province_state": "",
+    "country_region": "Libya",
+    "lat": 26.3351,
+    "long": 17.228331,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17834,10 +17834,10 @@
     "3/29/20": 8
   },
   {
-    "Province/State": "",
-    "Country/Region": "West Bank and Gaza",
-    "Lat": 31.9522,
-    "Long": 35.2332,
+    "province_state": "",
+    "country_region": "West Bank and Gaza",
+    "lat": 31.9522,
+    "long": 35.2332,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17908,10 +17908,10 @@
     "3/29/20": 109
   },
   {
-    "Province/State": "",
-    "Country/Region": "Guinea-Bissau",
-    "Lat": 11.8037,
-    "Long": -15.1804,
+    "province_state": "",
+    "country_region": "Guinea-Bissau",
+    "lat": 11.8037,
+    "long": -15.1804,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -17982,10 +17982,10 @@
     "3/29/20": 2
   },
   {
-    "Province/State": "",
-    "Country/Region": "Mali",
-    "Lat": 17.570692,
-    "Long": -3.996166000000001,
+    "province_state": "",
+    "country_region": "Mali",
+    "lat": 17.570692,
+    "long": -3.996166000000001,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18056,10 +18056,10 @@
     "3/29/20": 18
   },
   {
-    "Province/State": "",
-    "Country/Region": "Saint Kitts and Nevis",
-    "Lat": 17.357822,
-    "Long": -62.782998,
+    "province_state": "",
+    "country_region": "Saint Kitts and Nevis",
+    "lat": 17.357822,
+    "long": -62.782998,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18130,10 +18130,10 @@
     "3/29/20": 2
   },
   {
-    "Province/State": "Northwest Territories",
-    "Country/Region": "Canada",
-    "Lat": 64.8255,
-    "Long": -124.8457,
+    "province_state": "Northwest Territories",
+    "country_region": "Canada",
+    "lat": 64.8255,
+    "long": -124.8457,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18204,10 +18204,10 @@
     "3/29/20": 1
   },
   {
-    "Province/State": "Yukon",
-    "Country/Region": "Canada",
-    "Lat": 64.2823,
-    "Long": -135,
+    "province_state": "Yukon",
+    "country_region": "Canada",
+    "lat": 64.2823,
+    "long": -135,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18278,10 +18278,10 @@
     "3/29/20": 4
   },
   {
-    "Province/State": "",
-    "Country/Region": "Kosovo",
-    "Lat": 42.602636,
-    "Long": 20.902977,
+    "province_state": "",
+    "country_region": "Kosovo",
+    "lat": 42.602636,
+    "long": 20.902977,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18352,10 +18352,10 @@
     "3/29/20": 94
   },
   {
-    "Province/State": "",
-    "Country/Region": "Burma",
-    "Lat": 21.9162,
-    "Long": 95.956,
+    "province_state": "",
+    "country_region": "Burma",
+    "lat": 21.9162,
+    "long": 95.956,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18426,10 +18426,10 @@
     "3/29/20": 10
   },
   {
-    "Province/State": "Anguilla",
-    "Country/Region": "United Kingdom",
-    "Lat": 18.2206,
-    "Long": -63.0686,
+    "province_state": "Anguilla",
+    "country_region": "United Kingdom",
+    "lat": 18.2206,
+    "long": -63.0686,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18500,10 +18500,10 @@
     "3/29/20": 2
   },
   {
-    "Province/State": "British Virgin Islands",
-    "Country/Region": "United Kingdom",
-    "Lat": 18.4207,
-    "Long": -64.64,
+    "province_state": "British Virgin Islands",
+    "country_region": "United Kingdom",
+    "lat": 18.4207,
+    "long": -64.64,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18574,10 +18574,10 @@
     "3/29/20": 2
   },
   {
-    "Province/State": "Turks and Caicos Islands",
-    "Country/Region": "United Kingdom",
-    "Lat": 21.69400000000001,
-    "Long": -71.7979,
+    "province_state": "Turks and Caicos Islands",
+    "country_region": "United Kingdom",
+    "lat": 21.69400000000001,
+    "long": -71.7979,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
@@ -18648,10 +18648,10 @@
     "3/29/20": 4
   },
   {
-    "Province/State": "",
-    "Country/Region": "MS Zaandam",
-    "Lat": 0,
-    "Long": 0,
+    "province_state": "",
+    "country_region": "MS Zaandam",
+    "lat": 0,
+    "long": 0,
     "1/22/20": 0,
     "1/23/20": 0,
     "1/24/20": 0,
