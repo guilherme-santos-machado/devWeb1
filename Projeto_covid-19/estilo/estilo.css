@@ -35,6 +35,35 @@ div.embed-responsive {
     min-height: 80vh;
 }
 
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
+  .tabelas{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+   padding-bottom: 30px;
+   padding-top: 60px;
+  }
+
+  .cabeca{
+      text-align: center;
+      padding-top: 25px;
+  }
+
 
 @media screen and (max-width: 767px) {
 
