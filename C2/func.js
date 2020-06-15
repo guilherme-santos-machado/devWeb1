@@ -2,10 +2,10 @@ const form = document.getElementById("formulario");
 
 form.addEventListener("submit", (e)=>{
     const data = formDataToJSON(new FormData(form));
-    incluirLinha(data);
+    inserirPessoa(data);
 });
 
-function incluirLinha({nome, endereco, celular, peso, altura, quadro}){
+function inserirPessoa({nome, endereco, celular, peso, altura, descricao}){
     const corpo = document.querySelector("#tabela > tbody");    
     let tr = `
         <tr>
@@ -15,7 +15,7 @@ function incluirLinha({nome, endereco, celular, peso, altura, quadro}){
             <td>${celular}</td>
             <td>${peso}</td>
             <td>${altura}</td>
-            <td>${quadro}</td>
+            <td>${descricao}</td>
         </tr>
     `;
     var novaLinha = corpo.insertRow(0);
