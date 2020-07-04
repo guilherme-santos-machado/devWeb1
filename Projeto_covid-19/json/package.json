@@ -125,7 +125,7 @@
     "is-symbol": "^1.0.3",
     "isarray": "^0.0.1",
     "kdbush": "^3.0.0",
-    "kind-of": "^3.2.2",
+    "kind-of": "^6.0.3",
     "lazy-cache": "^1.0.4",
     "left-pad": "^1.3.0",
     "lerp": "^1.0.3",
